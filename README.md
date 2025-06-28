@@ -7,7 +7,6 @@
 <img src ="https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white">
 </p>
 
-![GithubBanner](./app/tarang.png)
 
 <p align="center">
 Create beautiful mesh gradients at https://tarang-suman.vercel.app/ .
